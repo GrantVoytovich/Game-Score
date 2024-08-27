@@ -6,4 +6,4 @@ The Performance Score calculates wOBA, AVG Exit Velocity, Barrel %, EV 95 MPH + 
 
 The Plate Discipline Score calculates Chase %, Whiff %, IZ Whiff %, FB Whiff %, and Offspeed Chase % for each batter and gives each a ranking based on how they performed compared to the rest of the hitters.  They are then assigned a score from 1-50(50 being the best) based on the rankings.
 
-The Final Game Score is calculated by combining the Performance Score and Plate Discipline Score.
+The Final Game Score is calculated by combining the Performance Scores and Plate Discipline Scores.
